@@ -1,10 +1,8 @@
-## Validator and Storage Node Metadata for Vola Network Operators
-
 {
   "schema_version": 1,
   "owner_account": "5HVjA7jc51qvoA81gFbEgGPCxuc9Bsnz45kicxByDYQoVEMY",
   "profile": {
-    "operator_name": "Kube,
+    "operator_name": "Kube",
     "website": "https://x.com/jpvegas21",
     "country": "US",
     "social": {
