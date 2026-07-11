@@ -15,12 +15,14 @@
   "validator": {
     "account": "5HVjA7jc51qvoA81gFbEgGPCxuc9Bsnz45kicxByDYQoVEMY",
     "name": "Kube1",
-    "logo": "logos/5FExampleOwnerWallet/validator.webp"
+    "url_png_icon_64x64": "https://raw.githubusercontent.com/KingStake21/KUBE/main/KUBEa.png",
+    "url_png_logo": "https://raw.githubusercontent.com/KingStake21/KUBE/main/KUBEa.png"
   },
   "storage_nodes": [
     {
       "id": "5HVjA7jc51qvoA81gFbEgGPCxuc9Bsnz45kicxByDYQoVEMY",
-      "logo": "logos/5FExampleOwnerWallet/storage-1.webp"
+      "url_png_icon_64x64": "https://raw.githubusercontent.com/KingStake21/KUBE/main/KUBEa.png",
+      "url_png_logo": "https://raw.githubusercontent.com/KingStake21/KUBE/main/KUBEa.png"
     }
   ],
   #"proof": {
